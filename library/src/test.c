@@ -1,4 +1,4 @@
-#include "test.h"
+#include "library/test.h"
 #include <stdio.h>
 
 void say_hello(const char *name) {

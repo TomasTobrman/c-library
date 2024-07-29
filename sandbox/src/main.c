@@ -1,4 +1,4 @@
-#include "test.h"
+#include "library/test.h"
 
 int main(int argc, char *argv[]) {
     say_hello("Tirea");
